@@ -12,6 +12,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 50px;
 }
 .hlaf-width{
     width:50%;
@@ -19,6 +20,7 @@ section{
 }
 .hlaf-width img{
     width: 100%;
+    padding: 10px;
 }
 .link{
     text-decoration: none;
@@ -34,3 +36,15 @@ background-image: url(use.jpg);
 background-repeat: no-repeat
 
 }
+.dream-big{
+    display: flex;
+}
+.link{
+    text-align:right;
+}
+.dream-big{
+    background-image: url(pexels-agustina-montanaro-12455516.jpg);
+    background-repeat: no-repeat;
+padding: 0;}
+    
+    
