@@ -1,31 +1,25 @@
 body{
     font-family: 'Oleo Script Swash Caps', cursive;
     font-family: 'Poppins', sans-serif;
-   margin: 0;
-}
+   margin: 0;}
 
 h1{
-    font-size: 50px;
-}
+    font-size: 50px;}
+
 .orange-colour{
     color: orange;
     width: auto;
-    margin: bottom 50%; border-radius: 10px;
-    
-}
+    margin: bottom 50%; border-radius: 10px;}
 .web{
     display: flex;
     margin-bottom: 150px;
-    display: inline-flexbox;
-}
+    display: inline-flexbox;}
 .hlaf-width{
     width:50%;
-    padding-left: 2%
-}
+    padding-left: 2%}
 .hlaf-width img{
     width: 80%;
-    padding: 10px;
-    }
+    padding: 10px;}
   
 .link{
     text-decoration: none;
@@ -37,16 +31,12 @@ h1{
     text-align: justify;
 }
 .banner-top{
-background-image:url(pexels-jonathan-cooper-12568118.jpg) 
-
-}
+background-image:url(pexels-jonathan-cooper-12568118.jpg) }
 
 .banner-top{
-  
-    padding: 40px ;
-    color: rgb(241, 241, 241); 
-  
-    margin: 0;
+   padding: 40px ;
+ color: rgb(241, 241, 241); 
+   margin: 0;
 background-image:1000px ;}
 
 .dream-big{
