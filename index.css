@@ -8,20 +8,25 @@ h1{
     font-size: 50px;
 }
 .orange-colour{
-    color: rgb(62, 235, 134);
+    color: orange;
+    width: auto;
+    margin: bottom 50%; border-radius: 10px;
+    
 }
-section{
+.web{
     display: flex;
-    margin-bottom: 50px;
+    margin-bottom: 150px;
+    display: inline-flexbox;
 }
 .hlaf-width{
     width:50%;
-    padding-left: 2px;
+    padding-left: 2%
 }
 .hlaf-width img{
-    width: 100%;
+    width: 80%;
     padding: 10px;
-}
+    }
+  
 .link{
     text-decoration: none;
     background-color: blueviolet;
@@ -32,19 +37,70 @@ section{
     text-align: justify;
 }
 .banner-top{
-background-image: url(use.jpg);
-background-repeat: no-repeat
+background-image:url(pexels-jonathan-cooper-12568118.jpg) 
 
 }
+
+.banner-top{
+  
+    padding: 40px ;
+    color: rgb(241, 241, 241); 
+  
+    margin: 0;
+background-image:1000px ;}
+
 .dream-big{
     display: flex;
+    padding:10px 5px ;
+    margin-top: 60px;
+    color:wheat;
+    background-color: rgb(10, 254, 254);
 }
 .link{
     text-align:right;
 }
 .dream-big{
-    background-image: url(pexels-agustina-montanaro-12455516.jpg);
+    background-image: url(pexels-david-besh-884788.jpg) ;
     background-repeat: no-repeat;
+    background-size: 1250px ;
+    margin-top: 50px;
+    border-radius: 10px;
+    margin: 20px 10px ;
 padding: 0;}
+    .next{
+        display: flex;
+   
+ }
+   .last{
+       border-radius: 20px 10px ;
+       padding: 10px ;
+       border: solid;
+       box-shadow: 25px 20px rgb(168, 118, 249);
+     margin: 0 20px 40px  ;
+       border: 50px 10px;
+       width: 50%;
+      
+   }
+   .cv{
+   
+    padding: 60px ;
     
-    
+    color: rgb(18, 224, 224);
+     }
+ #pro{
+     border-left: solid rosybrown 20px;
+ }
+ #baby{
+     border-left: solid rgb(51, 143, 132) 20px;
+ }
+ 
+ .pot{
+     text-align: center  ;
+     color: teal;
+ }
+ #my{
+    margin-bottom: 40px;
+ }
+   .pic{
+       margin-top: 40px;
+   }
